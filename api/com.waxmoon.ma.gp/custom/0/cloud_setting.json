@@ -17,7 +17,7 @@
     },
     "redeemCoin": {
       "redeem": 0,
-      "token": "unlimited"
+      "token": "custom"
     },
     "duration": 99999999,
     "redeemRule": [
