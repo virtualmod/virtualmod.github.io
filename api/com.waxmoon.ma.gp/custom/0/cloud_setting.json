@@ -12,19 +12,26 @@
       "bannerDuration": 0,
       "bannerDurationGithub": 0,
       "rewardFirst": false,
-      "newUserFree": 1,
-      "newUserFreeTimes": 99
+      "newUserFree": 9999,
+      "newUserFreeTimes": 1
     },
-    "redeemCoin": {
-      "redeem": 0,
-      "token": "custom"
-    },
-    "duration": 99999999,
+    "duration": 600000,
     "redeemRule": [
-      { "coins": 0, "origCoins": 0, "days": 1 },
-      { "coins": 0, "origCoins": 0, "days": 2 },
-      { "coins": 0, "origCoins": 0, "days": 3 },
-      { "coins": 0, "origCoins": 0, "days": 99 }
+      {
+        "coins": 0,
+        "origCoins": 0,
+        "days": 99
+      },
+      {
+        "coins": 0,
+        "origCoins": 0,
+        "days": 999
+      },
+      {
+        "coins": 0,
+        "origCoins": 0,
+        "days": 9999
+      }
     ]
   }
 }
